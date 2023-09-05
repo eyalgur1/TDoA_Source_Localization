@@ -1,5 +1,5 @@
 # TDoA_Localization
-This project was used in the our published paper:
+This project was used in our published paper:
 
 Gur, Eyal, Alon Amar, and Shoham Sabach. "Direct, fast and convergent solvers for the non-convex and non-smooth TDoA localization problem." _Digital Signal Processing_ 139 (2023): 104074.
 
