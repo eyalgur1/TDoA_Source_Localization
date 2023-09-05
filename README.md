@@ -18,7 +18,7 @@ Gur, Eyal. "TDoA Source Localization." _Faculty of Data and Decision Sciences, T
 Gur, Eyal. "TDoA Source Localization." _Faculty of Data and Decision Sciences, Technion - Israel Institute of Technology (2023)_, URL: https://github.com/eyalgur1
 
 **Harvard**:
-Gur, E., 2023. TDoA Source Localization. _Faculty of Data and Decision Sciences, Technion - Israel Institute of Technology_ (2023), URL: https://github.com/eyalgur1
+Gur, E., 2023. TDoA Source Localization. _Faculty of Data and Decision Sciences, Technion - Israel Institute of Technology_, URL: https://github.com/eyalgur1
 
 **Vancouver**:
 Gur, E. TDoA Source Localization. Faculty of Data and Decision Sciences, Technion - Israel Institute of Technology. 2023, URL: https://github.com/eyalgur1
